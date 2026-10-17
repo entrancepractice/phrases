@@ -2,11 +2,46 @@
   "categories": [
     {
       "name": "Referee",
-      "phrases": ["Ring the bell!", "Break it up!"]
+      "phrases": [
+        "Ring the bell",
+        "Break it up",
+        "-One-",
+        "-Two-",
+        "-Three-",
+        "-Cover-",
+        "Breaks Hold",
+        "Return to ring",
+        "Disqualification"
+      ]
     },
     {
-      "name": "Pinfalls",
-      "phrases": ["-Three-", "-Kickout-", "-New Champion-"]
+      "name": "Wrestler",
+      "phrases": [
+        "-Cover-",
+        "-Kickout-",
+        "-Tap out-",
+        "-Get up-",
+        "-Reversal-",
+        "-Counter-",
+        "-Tag-",
+        "-Finisher-",
+        "-I Quit-",
+        "-No Contest-"
+      ]
+    },
+    {
+      "name": "Match Results",
+      "phrases": [
+        "-Winner-",
+        "-Winner By Pinfall-",
+        "-Winner By Submission-",
+        "-Winner By Countout-",
+        "-Winner By DQ-",
+        "-New Champion-",
+        "-Title Retained-",
+        "-Match Over-",
+        "-Draw-"
+      ]
     }
   ]
 }
