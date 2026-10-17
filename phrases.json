@@ -42,6 +42,14 @@
         "-Match Over-",
         "-Draw-"
       ]
+    },
+    {
+      "name": "Announcers",
+      "phrases": [
+        "Introducing first...",
+        "And their opponent...",
+        "Here is your winner!"
+      ]
     }
   ]
 }
