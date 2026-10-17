@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "name": "Referee",
+      "phrases": ["Ring the bell!", "Break it up!"]
+    },
+    {
+      "name": "Pinfalls",
+      "phrases": ["-Three-", "-Kickout-", "-New Champion-"]
+    }
+  ]
+}
